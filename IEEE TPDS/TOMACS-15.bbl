@@ -1,0 +1,333 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem[\protect\citeauthoryear{Benford and Fahl\'{e}n}{Benford and
+  Fahl\'{e}n}{1993}]%
+        {Benford+Fahlen.1993}
+{Steve Benford} {and} {Lennart Fahl\'{e}n}. 1993.
+\newblock \showarticletitle{{A spacial model of interaction in large virtual
+  environments}}. In {\em Proceedings 3rd European Conference on
+  Computer-Supported Cooperative Work}. 109--124.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Boulanger, Kienzle, and Verbrugge}{Boulanger
+  et~al\mbox{.}}{2006}]%
+        {Boulanger+others.2006}
+{Jean-S\'{e}bastien Boulanger}, {J\"{o}rg Kienzle}, {and} {Clark Verbrugge}.
+  2006.
+\newblock \showarticletitle{{Comparing interest management algorithms for
+  massively multiplayer games}}. In {\em Proceedings of 5th ACM SIGCOMM
+  Workshop on Network and System Support for Games (NetGames'06)}. ACM Press,
+  6.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cheslack-Postava, Azim, Mistree, Horn,
+  Terrace, Levis, and Freedman}{Cheslack-Postava et~al\mbox{.}}{2012}]%
+        {Cheslack-Postava+others.2012}
+{Even Cheslack-Postava}, {Tahir Azim}, {Behram~F.T. Mistree}, {Daniel~R. Horn},
+  {Jeff Terrace}, {Philip Levis}, {and} {Michael~J. Freedman}. 2012.
+\newblock \showarticletitle{A scalable server for {3D} metaverses}. In {\em
+  Proceedings of USENIX Annual Technical Conference (ATC'12)}. 20.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Frecon and Stenius}{Frecon and
+  Stenius}{1998}]%
+        {Frecon+Stenius.1998}
+{Emmanuel Frecon} {and} {Marten Stenius}. 1998.
+\newblock \showarticletitle{DIVE: a scalable network architecture for
+  distributed virtual environments}.
+\newblock {\em Distributed Systems Engineering\/} {5}, 3 (1998), 91--100.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gajananan, Nantes, Miska, Nakasone, and
+  Prendinger}{Gajananan et~al\mbox{.}}{2013}]%
+        {Gajananan+others.2013}
+{Kugamoorthy Gajananan}, {Alfredo Nantes}, {Marc Miska}, {Arturo Nakasone},
+  {and} {Helmut Prendinger}. 2013.
+\newblock \showarticletitle{An experimental space for conducting controlled
+  driving behavior studies based on a multiuser networked 3D virtual
+  environment and the Scenario Markup Language}.
+\newblock {\em IEEE Transactions on Human-Machine Systems\/} {43}, 4 (2013),
+  345--358.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gu, Ji, Li, and Zhao}{Gu
+  et~al\mbox{.}}{2012}]%
+        {Gu2012}
+{Yu Gu}, {Yusheng Ji}, {Jie Li}, {and} {Baohua Zhao}. 2012.
+\newblock \showarticletitle{Covering Targets in Sensor Networks: From Time
+  Domain to Space Domain}.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems\/} {23}, 9
+  (2012), 1643--1656.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{He, Chen, Cheng, Gu, He, and Sun}{He
+  et~al\mbox{.}}{2012}]%
+        {Shibo2012}
+{Shibo He}, {Jiming Chen}, {Peng Cheng}, {Yu Gu}, {Tian He}, {and} {Youxian
+  Sun}. 2012.
+\newblock \showarticletitle{Quality of sensing, sensor allocation, sensor
+  relocation, distributed algorithms}.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems\/} {23}, 9
+  (2012), 1657--1667.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Horn, Cheslack-Postava, Azim, Freedman, and
+  Levis}{Horn et~al\mbox{.}}{2009}]%
+        {Horn+others.2009}
+{Daniel Horn}, {Ewen Cheslack-Postava}, {Tahir Azim}, {Michael~J. Freedman},
+  {and} {Philip Levis}. 2009.
+\newblock \showarticletitle{{Scaling virtual worlds with a physical metaphor}}.
+\newblock {\em Pervasive Computing\/} (2009), 50--54.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Horn, Cheslack-Postava, Mistree, Azim,
+  Terrace, Freedman, and Philip}{Horn et~al\mbox{.}}{2010}]%
+        {Horn+others.2010}
+{Daniel Horn}, {Ewen Cheslack-Postava}, {Behram~F.T. Mistree}, {Tahir Azim},
+  {Jeff Terrace}, {Michael~J Freedman}, {and} {Levis Philip}. 2010.
+\newblock {\em {To infinity and not beyond: Scaling communication in virtual
+  worlds with Meru}}.
+\newblock {T}echnical {R}eport. Technical Report, Stanford University.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hosseini, Pettifer, and Georganas}{Hosseini
+  et~al\mbox{.}}{2002}]%
+        {Hosseini2002}
+{Mojtaba Hosseini}, {Steve Pettifer}, {and} {Nicolas~D. Georganas}. 2002.
+\newblock \showarticletitle{Visibility-based Interest Management in
+  Collaborative Virtual Environments}. In {\em Proceedings of the 4th
+  International Conference on Collaborative Virtual Environments}. ACM Press,
+  143--144.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kaplan and Yankelovich}{Kaplan and
+  Yankelovich}{2011}]%
+        {Kaplan+Yankelovich.2011}
+{Jonathan Kaplan} {and} {Nicole Yankelovich}. 2011.
+\newblock \showarticletitle{{Open Wonderland : An extensible virtual world
+  architecture}}.
+\newblock {\em IEEE Internet Computing\/} {15}, 5 (2011), 38--45.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kumar, Chhugani, Kim, Kim, Nguyen, Dubey,
+  Bienia, and Kim}{Kumar et~al\mbox{.}}{2008}]%
+        {Kumar+others.2008}
+{Sanjeev Kumar}, {Jatin Chhugani}, {Changkyu Kim}, {Daehyun Kim}, {Anthony
+  Nguyen}, {Pradeep Dubey}, {Christian Bienia}, {and} {Youngmin Kim}. 2008.
+\newblock \showarticletitle{{Second Life and the new generation of virtual
+  worlds}}.
+\newblock {\em IEEE Internet Computing\/} {41}, 9 (2008), 46--53.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lake, Bowman, and Liu}{Lake
+  et~al\mbox{.}}{2010}]%
+        {Lake+others.2010}
+{Dan Lake}, {Mic Bowman}, {and} {Huaiyu Liu}. 2010.
+\newblock \showarticletitle{Distributed scene graph to enable thousands of
+  interacting users in a virtual environment}. In {\em Proceedings of the 9th
+  Annual Workshop on Network and Systems Support for Games (NetGames'10)}.
+  1--6.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu and Theodoropoulos}{Liu and
+  Theodoropoulos}{2014a}]%
+        {Liu+Theodoropoulos.2014b}
+{Elvis~S. Liu} {and} {Georgios~K. Theodoropoulos}. 2014a.
+\newblock \showarticletitle{Interest management for distributed virtual
+  environments: A survey}.
+\newblock {\it Comput. Surveys} {46}, 4 (2014), 51.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu and Theodoropoulos}{Liu and
+  Theodoropoulos}{2014b}]%
+        {Liu+Theodoropoulos.2014a}
+{Elvis~S. Liu} {and} {Georgios~K. Theodoropoulos}. 2014b.
+\newblock \showarticletitle{Space-time matching algorithms for interest
+  management in distributed virtual environments}.
+\newblock {\em ACM Transactions on Modeling and Computer Simulation\/} {24}, 3
+  (2014), 15.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu and Bowman}{Liu and Bowman}{2010}]%
+        {Liu+others.2010}
+{Huaiyu Liu} {and} {Mic Bowman}. 2010.
+\newblock \showarticletitle{{Scaling virtual worlds: Simulation requirements
+  and challenges}}.
+\newblock {\em Proceedings of the Winter Simulation Conference\/} (2010),
+  778--790.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Liu, Bowman, and Chang}{Liu
+  et~al\mbox{.}}{2012}]%
+        {Liu+others.2012}
+{Huaiyu Liu}, {Mic Bowman}, {and} {Francis Chang}. 2012.
+\newblock \showarticletitle{{Survey of state melding in virtual worlds}}.
+\newblock {\it Comput. Surveys} {44}, 4 (2012), 1--25.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lopes}{Lopes}{2011}]%
+        {Lopes.2011}
+{Cristina Lopes}. 2011.
+\newblock \showarticletitle{{Hypergrid: Architecture and protocol for virtual
+  world interoperability}}.
+\newblock {\em IEEE Internet Computing\/} {15}, 5 (Sept. 2011), 22--29.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Madruga and Prendinger}{Madruga and
+  Prendinger}{2013}]%
+        {Madruga+Prendinger.2013}
+{Marconi Madruga} {and} {Helmut Prendinger}. 2013.
+\newblock \showarticletitle{{iCO2}: Multi-user eco-driving training environment
+  based on distributed constraint optimization}. In {\em Proceedings 12th
+  International Conference on Autonomous Agents and Multiagent Systems
+  (AAMAS'13)}. 925--932.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Madruga, Prendinger, Tilma, Lindner, Santos,
+  and Nakasone}{Madruga et~al\mbox{.}}{2012}]%
+        {Madruga+others.2012}
+{Marconi Madruga}, {Helmut Prendinger}, {Todd Tilma}, {Martin Lindner}, {Edgar
+  Santos}, {and} {Arturo Nakasone}. 2012.
+\newblock \showarticletitle{{Practicing eco-safe driving at scale}}. In {\em
+  Proceedings of the ACM SIGCHI Conference on Human Factors in Computing
+  Systems (CHI'12)}. 2147--2152.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Prendinger, Miska, Gajananan, and
+  Nantes}{Prendinger et~al\mbox{.}}{2014a}]%
+        {Prendinger+others.2013}
+{Helmut Prendinger}, {Marc Miska}, {Kugamoorthy Gajananan}, {and} {Alfredo
+  Nantes}. 2014a.
+\newblock \showarticletitle{A {Cyber}-{Physical} {System} simulator for risk
+  free transport studies}.
+\newblock {\em Computer-Aided Civil and Infrastructure Engineering\/} {29}, 7
+  (2014), 480--495.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Prendinger, Oliveira, Catarino, Madruga, and
+  Prada}{Prendinger et~al\mbox{.}}{2014b}]%
+        {Prendinger+others.2014}
+{Helmut Prendinger}, {Jo\~{a}o Oliveira}, {Jo\~{a}o Catarino}, {Marconi
+  Madruga}, {and} {Rui Prada}. 2014b.
+\newblock \showarticletitle{{iCO$_2$}: a networked game for collecting
+  large-scale eco-driving behavior data}.
+\newblock {\em IEEE Internet Computing\/} {18}, 3 (2014), 28--35.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rao}{Rao}{1996}]%
+        {Rao1996}
+{Anand~S. Rao}. 1996.
+\newblock \showarticletitle{AgentSpeak(L): BDI Agents Speak out in a Logical
+  Computable Language}. In {\em Proceedings of the 7th European Workshop on
+  Modelling Autonomous Agents in a Multi-agent World : Agents Breaking Away:
+  Agents Breaking Away} {\em (MAAMAW '96)}. Springer-Verlag New York, Inc.,
+  Secaucus, NJ, USA, 42--55.
+\newblock
+\showISBNx{3-540-60852-4}
+
+
+\bibitem[\protect\citeauthoryear{Schmitt}{Schmitt}{1938}]%
+        {Schmitt.1938}
+{Otto~H. Schmitt}. 1938.
+\newblock \showarticletitle{A thermionic trigger}.
+\newblock {\em Journal of Scientific Instrument\/}  {5} (1938), 24--26.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Smith, Kay, Raab, and Reed}{Smith
+  et~al\mbox{.}}{2003}]%
+        {Smith+others.2003}
+{David~A. Smith}, {Alan Kay}, {Andreas Raab}, {and} {David~P. Reed}. 2003.
+\newblock \showarticletitle{Croquet -- A collaboration system architecture}. In
+  {\em Proceedings of the First Conference on Creating Connecting and
+  Collaborating Through Computing}. ACM, 2--9.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Teng, Zhang, Li, Bai, and Xuan}{Teng
+  et~al\mbox{.}}{2011}]%
+        {J.Teng+B.Thang+others.2011}
+{Jin Teng}, {Boying Zhang}, {Xinfeng Li}, {Xiaole Bai}, {and} {Dong Xuan}.
+  2011.
+\newblock \showarticletitle{{E-Shadow}: Lubricating social interaction using
+  mobile phones}.
+\newblock {\em Proceedings 31st International Conference on Distributed
+  Computing Systems\/} (2011), 909--918.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{van~den Berg, Doirado, van Nes, van Lint,
+  Prendinger, and Hoogendoorn}{van~den Berg et~al\mbox{.}}{2012}]%
+        {Berg+others.2012}
+{Mignon van~den Berg}, {Eurico Doirado}, {Rob van Nes}, {Hans van Lint},
+  {Helmut Prendinger}, {and} {Serge Hoogendoorn}. 2012.
+\newblock \showarticletitle{Application of a 3D multi-user environment for
+  research on travel choice behavior. The case of a tsunami}. In {\em
+  Proceedings 13th International Conference of the International Association
+  for Travel Behaviour Research (IATBR'12)}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Waldo}{Waldo}{2008}]%
+        {Waldo.2008}
+{Jim Waldo}. 2008.
+\newblock \showarticletitle{{Scaling in games and virtual worlds}}.
+\newblock {\it Commun. ACM} {51}, 8 (2008), 38--44.
+\newblock
+
+
+\end{thebibliography}

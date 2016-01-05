@@ -1,0 +1,148 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Frecon+Stenius.1998}
+E.~Frecon, M.~Stenius, Dive: a scalable network architecture for distributed
+  virtual environments, Distributed Systems Engineering 5~(3) (1998) 91--100.
+
+\bibitem{Liu+others.2012}
+H.~Liu, M.~Bowman, F.~Chang,
+  \href{http://dl.acm.org/citation.cfm?doid=2333112.2333116}{{Survey of state
+  melding in virtual worlds}}, ACM Computing Surveys 44~(4) (2012) 1--25.
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?doid=2333112.2333116}
+
+\bibitem{Lui+Chan.2002}
+J.~Lui, M.~Chan, A efficient partitioning algorithm for distributed virtual
+  environments, IEEE Transactions on Parallel and Distributed Systems 13~(3)
+  (2002) 193--211.
+
+\bibitem{Lopes.2011}
+C.~Lopes,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5871570}{{Hypergrid:
+  Architecture and protocol for virtual world interoperability}}, IEEE Internet
+  Computing 15~(5) (2011) 22--29.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5871570}
+
+\bibitem{Liu+others.2010}
+H.~Liu, M.~Bowman,
+  \href{http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5679112}{{Scaling
+  virtual worlds: Simulation requirements and challenges}}, Proceedings of the
+  Winter Simulation Conference (2010) 778--790.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5679112}
+
+\bibitem{Horn+others.2009}
+D.~Horn, E.~Cheslack-Postava, T.~Azim, M.~J. Freedman, P.~Levis, {Scaling
+  virtual worlds with a physical metaphor}, Pervasive Computing (2009) 50--54.
+
+\bibitem{Horn+others.2010}
+D.~Horn, E.~Cheslack-Postava, B.~F. Mistree, T.~Azim, J.~Terrace, M.~J.
+  Freedman, L.~Philip, {To infinity and not beyond: Scaling communication in
+  virtual worlds with Meru}, Tech. rep., Technical Report, Stanford University
+  (2010).
+
+\bibitem{Cheslack-Postava+others.2012}
+E.~Cheslack-Postava, T.~Azim, B.~F. Mistree, D.~R. Horn, J.~Terrace, P.~Levis,
+  M.~J. Freedman, A scalable server for {3D} metaverses, in: Proceedings of
+  USENIX Annual Technical Conference (ATC'12), 2012, p.~20.
+
+\bibitem{Benford+Fahlen.1993}
+S.~Benford, L.~Fahl\'{e}n, {A spacial model of interaction in large virtual
+  environments}, in: Proceedings 3rd European Conference on Computer-Supported
+  Cooperative Work, 1993, pp. 109--124.
+
+\bibitem{Boulanger+others.2006}
+J.-S. Boulanger, J.~Kienzle, C.~Verbrugge, {Comparing interest management
+  algorithms for massively multiplayer games}, in: Proceedings of 5th ACM
+  SIGCOMM Workshop on Network and System Support for Games (NetGames'06), ACM
+  Press, 2006, p.~6.
+
+\bibitem{Hosseini2002}
+N.~D.~G. Mojtaba~Hosseini, Steve~Pettifer, Visibility-based interest management
+  in collaborative virtual environments, in: Proceedings of the 4th
+  International Conference on Collaborative Virtual Environments, ACM Press,
+  2002, pp. 143--144.
+
+\bibitem{Kaplan+Yankelovich.2011}
+J.~Kaplan, N.~Yankelovich, {Open Wonderland : An extensible virtual world
+  architecture}, IEEE Internet Computing 15~(5) (2011) 38--45.
+
+\bibitem{Waldo.2008}
+J.~Waldo, {Scaling in games and virtual worlds}, Communications of the ACM
+  51~(8) (2008) 38--44.
+
+\bibitem{Smith+others.2003}
+D.~A. Smith, A.~Kay, A.~Raab, D.~P. Reed, Croquet -- a collaboration system
+  architecture, in: Proceedings of the First Conference on Creating Connecting
+  and Collaborating Through Computing, ACM, 2003, pp. 2--9.
+
+\bibitem{Yu2012}
+Y.~Gu, Y.~Ji, J.~Li, B.~Zhao, Covering targets in sensor networks: From time
+  domain to space domain, IEEE Transactions on Parallel and Distributed Systems
+  23~(9) (2012) 1643--1656.
+
+\bibitem{Shibo2012}
+S.~He, J.~Chen, P.~Cheng, Y.~Gu, T.~He, Y.~Sun, Quality of sensing, sensor
+  allocation, sensor relocation, distributed algorithms, IEEE Transactions on
+  Parallel and Distributed Systems 23~(9) (2012) 1657--1667.
+
+\bibitem{J.Teng+B.Thang+others.2011}
+J.~Teng, B.~Zhang, X.~Li, X.~Bai, D.~Xuan, {S-Shadow}: Lubricating social
+  interaction using mobile phones, IEEE Transactions on ComputersPreprint.
+
+\bibitem{Madruga+others.2012}
+M.~Madruga, H.~Prendinger, T.~Tilma, M.~Lindner, E.~Santos, A.~Nakasone,
+  {Practicing eco-safe driving at scale}, in: Proceedings of the ACM SIGCHI
+  Conference on Human Factors in Computing Systems (CHI'12), 2012, pp.
+  2147--2152.
+
+\bibitem{Berg+others.2012}
+M.~van~den Berg, E.~Doirado, R.~van Nes, H.~van Lint, H.~Prendinger,
+  S.~Hoogendoorn, Application of a 3d multi-user environment for research on
+  travel choice behavior. the case of a tsunami, in: Proceedings 13th
+  International Conference of the International Association for Travel
+  Behaviour Research (IATBR'12), 2012.
+
+\bibitem{Gajananan+others.2013}
+K.~Gajananan, A.~Nantes, M.~Miska, A.~Nakasone, H.~Prendinger, An experimental
+  space for conducting controlled driving behavior studies based on a multiuser
+  networked 3d virtual environment and the scenario markup language, IEEE
+  Transactions on Human-Machine Systems 43~(4) (2013) 345--358, the paper was
+  recommended for publication in the former IEEE Transactions on Systems, Man,
+  and Cybernetics -- Part A: Systems and Humans.
+
+\bibitem{Madruga+Prendinger.2013}
+M.~Madruga, H.~Prendinger, {iCO2}: Multi-user eco-driving training environment
+  based on distributed constraint optimization, in: Proceedings 12th
+  International Conference on Autonomous Agents and Multiagent Systems
+  (AAMAS'13), 2013, pp. 925--932.
+
+\bibitem{Prendinger+others.2013}
+H.~Prendinger, M.~Miska, K.~Gajananan, A.~Nantes, A {Cyber}-{Physical} {System}
+  simulator for risk free transport studies, Computer-Aided Civil and
+  Infrastructure EngineeringIn press.
+
+\bibitem{Prendinger+others.2014}
+H.~Prendinger, J.~Oliveira, J.~Catarino, K.~Puntumapon, M.~Madruga, R.~Prada,
+  {iCO$_2$}: a networked game for collecting large-scale eco-driving behavior
+  data, IEEE Internet ComputingIn press.
+
+\bibitem{Schmitt.1938}
+O.~H. Schmitt, A thermionic trigger, Journal of Scientific Instrument 5 (1938)
+  24--26.
+
+\bibitem{Lake+others.2010}
+D.~Lake, M.~Bowman, H.~Liu, Distributed scene graph to enable thousands of
+  interacting users in a virtual environment, in: Proceedings of the 9th Annual
+  Workshop on Network and Systems Support for Games (NetGames'10), 2010, pp.
+  1--6.
+
+\bibitem{Kumar+others.2008}
+S.~Kumar, J.~Chhugani, C.~Kim, D.~Kim, A.~Nguyen, P.~Dubey, C.~Bienia, Y.~Kim,
+  {Second Life and the new generation of virtual worlds}, IEEE Internet
+  Computing 41~(9) (2008) 46--53.
+
+\end{thebibliography}

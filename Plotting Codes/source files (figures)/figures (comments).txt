@@ -1,0 +1,24 @@
+# Please provide figure source in a format that can be used/processed easily with commonly available software. E.g., I don't have Matlab, so I cannot process it
+
+Fig. 
+1: okay
+Fig. 
+2: okay
+Fig. 
+3: source needed
+Fig. 
+4: okay
+Fig. 
+5: source needed (fig to be improved)
+
+Fig. 6: source needed (fig to be improved)
+
+Fig. 7: okay
+Fig.
+8: okay
+Fig.
+9-10: n/a
+Fig. 
+11: sounce needed (fig to be improved)
+
+Fig. 12-15: source needed

@@ -1,0 +1,67 @@
+%% Creator: Inkscape inkscape 0.91pre3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'agent-drawing.eps' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{595.27559055bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.41428571)%
+    \put(0,0){\includegraphics[width=\unitlength]{agent-drawing.eps}}%
+    \put(0.50198084,1.31895692){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Router}}}%
+    \put(0.50547282,1.16920636){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Local IP}}}%
+    \put(0.13439153,1.02137565){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Port1}}}%
+    \put(0.47037037,1.02521541){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Port2}}}%
+    \put(0.81594864,1.01945579){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Port3}}}%
+    \put(0.28030234,0.79674981){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Agent}}}%
+    \put(0.16510961,0.92346181){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Agent}}}%
+    \put(0.86586545,0.80058957){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Agent}}}%
+    \put(0.66043842,0.80442929){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Agent}}}%
+    \put(0.45501136,0.80058957){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Agent}}}%
+    \put(0.0556765,0.80250943){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Agent}}}%
+    \put(0.16126984,0.86010581){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Message}}}%
+    \put(0.53180651,0.89082388){\color[rgb]{0.10980392,0.10980392,0.14117647}\makebox(0,0)[b]{\smash{Message}}}%
+  \end{picture}%
+\endgroup%
